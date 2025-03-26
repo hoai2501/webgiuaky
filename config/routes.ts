@@ -42,6 +42,14 @@
 		icon: 'OrderedListOutlined',
 		component: './TodoList',
 	},
+	{
+		path: '/toda-list',
+		name: 'Toda',
+		icon: 'OrderedListOutlined',
+		component: './TodoList/OrderManagement',
+	},
+
+
 
 	// DANH MUC HE THONG
 	// {
