@@ -36,17 +36,17 @@
 		component: './RandomUser',
 		icon: 'ArrowsAltOutlined',
 	},
+	// {
+	// 	path: '/todo-list',
+	// 	name: 'TodoList',
+	// 	icon: 'OrderedListOutlined',
+	// 	component: './TodoList',
+	// },
 	{
-		path: '/todo-list',
-		name: 'TodoList',
+		path: '/employees',
+		name: 'Nhân Viên',
 		icon: 'OrderedListOutlined',
-		component: './TodoList',
-	},
-	{
-		path: '/toda-list',
-		name: 'Toda',
-		icon: 'OrderedListOutlined',
-		component: './TodoList/OrderManagement',
+		component: './NhanVien/OrderManagement',
 	},
 
 
